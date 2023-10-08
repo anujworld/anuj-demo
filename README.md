@@ -1,3 +1,3 @@
 # anuj-demo
 first repository.
-Author -AnujMOdi
+Author -AnujModi
